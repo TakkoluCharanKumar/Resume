@@ -1,0 +1,77 @@
+{
+    "details":[{
+            "img":"boy.png",
+            "name":"Vasu Gangavarapu",
+            "role":"Software Engineer Fresher",
+            "skills":["Python","3/5","Django","2/5","Tkinter","4/5","My SQL","2/5","Web technologies","3/5"],
+            "pskills":["Organized","Time management","Fast learner","Motivated"],
+            "carrObj":"Enthusiastic to learn new things. Very much interested to find solutions to problem statements with programming. I will learn new technologies or languages very quickly. I have application oriented programmer that means what ever the concept I have learned I will try to include it to upcoming project.",
+            "education":[{
+                    "sno":1,
+                    "col":"Rajiv Gandhi University of Knowledge Techonlogies,RKValley",
+                    "branch":"Bachelor of Technology in Computer Science",
+                    "per":8.04,
+                    "due":"2018-2022"
+                },
+                {
+                    "sno":2,
+                    "col":"Rajiv Gandhi University of Knowledge Techonlogies,RKValley",
+                    "branch":"Pre University Course",
+                    "per":8.57,
+                    "due":"2016-2018"
+                },
+                {
+                    "sno":3,
+                    "col":"Zilla Parishad High School,Nellore",
+                    "branch":"Secondary School Certificate",
+                    "per":"9.70",
+                    "due":"2015-2016"
+                }
+            ],
+            "proj":[
+                "News paper Automation System","Playing songs according to your weather or time","Study time calculator and visual graphs to your data(GUI in tkinter and web)","Youtube Playlist and video downloader & so on"
+            ],
+            "phone":"+91 6302957061",
+            "glink":"https://github.com/viratvasu",
+            "email":"vasuvirat492@gmail.com",
+            "linkedin":"https://www.linkedin.com/in/gangavarapu-vasu-ab51b"
+        },
+        {
+            "img":"boy.png",
+            "name":"Charan Kumar Reddy Takkolu",
+            "role":"Software Engineer Fresher",
+            "skills":["Java","Proficient","C lang","Competent","Python","Beginner","C++","Novice","Web technologies","Competent"],
+            "pskills":["Genius","Billionarie","PlayBoy","Philanthropist"],
+            "carrObj":"Diligent Computer Science major (9.38 CGPA) currently attending Rajiv Gandhi University of Knowledge Technologies. Aiming to leverage proven creative thinking, critical thinking, and analytical skills to successfully fill my role at your company.",
+            "education":[{
+                    "sno":1,
+                    "col":"Rajiv Gandhi University of Knowledge Techonlogies,RKValley",
+                    "branch":"Bachelor of Technology in Computer Science",
+                    "per":9.38,
+                    "due":"2018-2022"
+                },
+                {
+                    "sno":2,
+                    "col":"Rajiv Gandhi University of Knowledge Techonlogies,RKValley",
+                    "branch":"Pre University Course",
+                    "per":"9.30",
+                    "due":"2016-2018"
+                },
+                {
+                    "sno":3,
+                    "col":"Zilla Parishad High School,New Madhavaram",
+                    "branch":"Secondary School Certificate",
+                    "per":"9.80",
+                    "due":"2015-2016"
+                }
+            ],
+            "phone":"+91 799XXXXX76",
+            "glink":"https://github.com/viratvasu",
+            "email":"tcharankumar16@gmail.com",
+            "linkedin":"https://www.linkedin.com/in/gangavarapu-vasu-ab51b",
+            "addr":["1/67 Kapu Street","Naravakati Palle","Vontimitta(M)","Kadapa City","PC 516213","Andhra Pradesh","India"]
+        }
+        
+    ]
+
+}
